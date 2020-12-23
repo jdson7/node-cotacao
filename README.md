@@ -10,7 +10,7 @@ API desenvolvida para recuperar cotações de ações e fundos imobiliários da 
 * [Express](https://expressjs.com) - Framework para aplicativo da web do Node.js mínimo e flexível que fornece um conjunto robusto de recursos para aplicativos web e móvel.
 * [Puppeteer](https://pptr.dev/) - Biblioteca Node.js que fornece uma API de alto nível para controle programático do Chrome ou Chromium por meio do protocolo DevTools.
 
-## Installation
+## Instalação
 
 Api desenvolvida utilizando [Node.js](https://nodejs.org/) v12.4.0
 
